@@ -1,0 +1,20 @@
+
+.menu-btn {
+  display: none;
+}
+
+.main-nav {
+  display: flex;
+}
+
+li {
+  list-style: none;
+}
+
+.main-menu {
+  display: flex;
+}
+
+.right-menu {
+  display: flex;
+}
